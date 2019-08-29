@@ -21,7 +21,7 @@ Creating an application in Bonita Studio (the Bonita development environment) wi
 - definition of users involved in the application
 - configuration of connectors to integrate Bonita with the information system (e.g. to send an email, call a web service...)
 
-We will cover all those steps in this getting started tutorial so you can get familiar with all the concepts behind a Bonita application.
+We will cover all these steps in this getting started tutorial so you can get familiar with all the concepts behind a Bonita application.
 
 ## Overview of Bonita solution architecture
 
